@@ -29,8 +29,25 @@
 
 `Next.js` `TypeScript` `MUI` `React Hook Form`
 
+## 🌱 مشارکت متن‌باز
+
+مشارکت با یه [Pull Request](https://github.com/mmahini/nemo-anki/pulls?q=is%3Apr+author%3Aameneyazdian101) در پروژه‌ی [nemo-anki](https://github.com/mmahini/nemo-anki): افزودن پشتیبانی کامل زبان فارسی (i18n) شامل مدل دیتابیس، سوییچ زبان، و ذخیره‌سازی تنظیمات کاربر.
+
+## 📊 آمار گیت‌هاب
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ameneyazdian101&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameneyazdian101&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
+
+</div>
+
 ---
 
+<div align="right">
+
 📫 برای همکاری یا سؤال، از طریق ایمیل یا همین گیت‌هاب در ارتباط باشید.
+
+</div>
 
 </div>
