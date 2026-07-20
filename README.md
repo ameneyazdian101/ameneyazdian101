@@ -7,7 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=22&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=600&lines=%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF%D9%87%E2%80%8C%DB%8C+%D9%81%D9%88%D9%84%E2%80%8C%D8%A7%D8%B3%D8%AA%D8%A7%DA%A9;Next.js+%2B+TypeScript+%2B+PostgreSQL;%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C+%D8%AA%D8%A7+%D8%AF%DB%8C%D9%BE%D9%84%D9%88%DB%8C" alt="typing-svg" />
 
 <p>
-  <img src="https://img.shields.io/badge/دنبال‌کنید-ameneyazdian101-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/ameneyazdian101?style=for-the-badge&color=16A34A&labelColor=181717" />
+  <img src="https://komarev.com/ghpvc/?username=ameneyazdian101&style=for-the-badge&color=16A34A&label=بازدید+پروفایل" />
 </p>
 
 </div>
@@ -24,24 +25,23 @@
 - 🌱 **در حال یادگیری:** معماری‌های مقیاس‌پذیر و بهینه‌سازی عملکرد وب
 - 🤝 **مشارکت متن‌باز:** [nemo-anki](https://github.com/mmahini/nemo-anki) — افزودن پشتیبانی کامل زبان فارسی (i18n)
 
+</div>
+
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=16A34A&width=100%" width="100%"/>
+
+<div align="center">
 
 ## 🧰 تکنولوژی‌ها
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,postgres,prisma,tailwind,vercel,git&theme=dark" />
 
-<br/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=16A34A&width=100%" width="100%"/>
+
+<div align="right" dir="rtl">
 
 ## 🚀 پروژه‌های منتخب
 
@@ -70,23 +70,25 @@
 </tr>
 </table>
 
-<br/>
+</div>
 
-## 📊 آمار گیت‌هاب
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=16A34A&width=100%" width="100%"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ameneyazdian101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
+## 📊 آمار گیت‌هاب
+
+<img src="https://github-readme-stats.vercel.app/api?username=ameneyazdian101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameneyazdian101&layout=compact&hide_border=true&theme=tokyonight" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ameneyazdian101&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=ameneyazdian101&theme=tokyonight&hide_border=true" height="165" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ameneyazdian101&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
-
-</div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:0F2540&height=100&section=footer" width="100%"/>
