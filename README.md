@@ -10,21 +10,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=16A34A&width=100%" width="100%"/>
 
-<div align="right" dir="rtl">
+## About Me
 
-## درباره من
+A full-stack developer who ships complete products, not demos — from UI design and backend architecture to data modeling, AI integration, and deployment on real infrastructure.
 
-توسعه‌دهنده‌ی فول‌استکی که محصول رو کامل و تا انتها می‌سازه — نه فقط یه دمو. از طراحی رابط کاربری و معماری بک‌اند تا مدل دیتابیس، یکپارچه‌سازی هوش مصنوعی، و دیپلوی نهایی روی زیرساخت واقعی.
-
-آخرین کاری که ساختم یه پلنر دیجیتال کاملشه: PWA نصب‌شدنی، دستیار هوش مصنوعی که برنامه‌ی واقعی کاربر رو می‌شناسه و باهاش تصمیم می‌گیره، یادآوری‌های Push واقعی از سرور، و پنل مدیریت اختصاصی — همه چیز روی زیرساخت production واقعی (Postgres + Vercel) و در دسترس کاربر واقعی.
-
-</div>
+My latest build is a full digital planner: an installable PWA, an AI assistant that actually knows the user's real schedule and reasons about it, real server-sent push reminders, and a dedicated admin panel — all running on real production infrastructure (Postgres + Vercel) with a real user.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=16A34A&width=100%" width="100%"/>
 
 <div align="center">
 
-## تکنولوژی‌ها
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,postgres,prisma,tailwind,vercel,git&theme=dark" />
 
@@ -32,28 +28,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=16A34A&width=100%" width="100%"/>
 
-<div align="right" dir="rtl">
-
-## پروژه‌های منتخب
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 📓 [پلنر](https://github.com/ameneyazdian101/planner)
+### 📓 [Planner](https://github.com/ameneyazdian101/planner)
 
-پلنر دیجیتال شخصی با تقویم شمسی — برنامه‌ریزی روزانه/هفتگی/ماهانه، اهداف، ردیاب عادت، یادداشت روزانه، و دستیار هوش مصنوعی که با شناخت از برنامه‌ی واقعی کاربر تصمیم می‌گیره. PWA کامل با یادآوری‌های Push واقعی از سرور.
+A personal digital planner with a full Persian (Jalali) calendar — daily/weekly/monthly planning, goals, habit tracking, journaling, and an AI assistant that reasons about the user's real schedule. Full PWA with real server-pushed reminders.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Gemini AI`
 
-**[مشاهده دمو زنده ↗](https://planner-vmdv-eight.vercel.app)**
+**[View live demo ↗](https://planner-vmdv-eight.vercel.app)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [بازرگانی امیر](https://github.com/ameneyazdian101/amir-trading-project)
+### 🛒 [Amir Trading](https://github.com/ameneyazdian101/amir-trading-project)
 
-فروشگاه آنلاین تجهیزات تخصصی نقشه‌برداری و ژئوماتیک، همراه با پنل مدیریت کامل برای محصولات، انبار و سفارش‌ها.
+An online storefront for surveying and geomatics equipment, with a full admin panel for products, inventory, and orders.
 
 `Next.js` `TypeScript` `MUI` `React Hook Form`
 
@@ -61,10 +55,8 @@
 </tr>
 </table>
 
-## مشارکت متن‌باز
+## Open Source
 
-مشارکت با یه [Pull Request](https://github.com/mmahini/nemo-anki/pulls?q=is%3Apr+author%3Aameneyazdian101) در پروژه‌ی [nemo-anki](https://github.com/mmahini/nemo-anki): افزودن پشتیبانی کامل زبان فارسی (i18n) — شامل تغییر مدل دیتابیس، سوییچ زبان، و ذخیره‌سازی تنظیمات کاربر.
-
-</div>
+Contributed a [pull request](https://github.com/mmahini/nemo-anki/pulls?q=is%3Apr+author%3Aameneyazdian101) to [nemo-anki](https://github.com/mmahini/nemo-anki): full Persian (Farsi) i18n support — including a database model change, a language switcher, and persisting the setting per user.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:0F2540&height=100&section=footer" width="100%"/>
