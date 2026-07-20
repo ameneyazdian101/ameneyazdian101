@@ -34,16 +34,24 @@ My latest build is a full digital planner: an installable PWA, an AI assistant t
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/ameneyazdian101/planner">
+<img src="https://raw.githubusercontent.com/ameneyazdian101/planner/master/.github/readme-assets/dashboard.png" width="100%" />
+</a>
+
 ### 📓 [Planner](https://github.com/ameneyazdian101/planner)
 
 A personal digital planner with a full Persian (Jalali) calendar — daily/weekly/monthly planning, goals, habit tracking, journaling, and an AI assistant that reasons about the user's real schedule. Full PWA with real server-pushed reminders.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Gemini AI`
 
-**[View live demo ↗](https://planner-vmdv-eight.vercel.app)**
+**[Live demo ↗](https://planner-vmdv-eight.vercel.app)**
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/ameneyazdian101/amir-trading-project">
+<img src="https://raw.githubusercontent.com/ameneyazdian101/amir-trading-project/master/.github/readme-assets/home.png" width="100%" />
+</a>
 
 ### 🛒 [Amir Trading](https://github.com/ameneyazdian101/amir-trading-project)
 
