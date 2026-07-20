@@ -63,8 +63,4 @@ An online storefront for surveying and geomatics equipment, with a full admin pa
 </tr>
 </table>
 
-## Open Source
-
-Contributed a [pull request](https://github.com/mmahini/nemo-anki/pulls?q=is%3Apr+author%3Aameneyazdian101) to [nemo-anki](https://github.com/mmahini/nemo-anki): full Persian (Farsi) i18n support — including a database model change, a language switcher, and persisting the setting per user.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:0F2540&height=100&section=footer" width="100%"/>
