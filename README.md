@@ -16,13 +16,15 @@ A full-stack developer who ships complete products, not demos — from UI design
 
 My latest build is a full digital planner: an installable PWA, an AI assistant that actually knows the user's real schedule and reasons about it, real server-sent push reminders, and a dedicated admin panel — all running on real production infrastructure (Postgres + Vercel) with a real user.
 
+I'm also a core contributor on a team building two live social-impact platforms — **Bazno** and **Bazgasht** — with React, Django, PostgreSQL, and Expo mobile apps.
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=16A34A&width=100%" width="100%"/>
 
 <div align="center">
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,postgres,prisma,tailwind,vercel,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,django,postgres,prisma,tailwind,vite,docker,vercel,git&theme=dark" />
 
 </div>
 
@@ -58,6 +60,38 @@ A personal digital planner with a full Persian (Jalali) calendar — daily/weekl
 An online storefront for surveying and geomatics equipment, with a full admin panel for products, inventory, and orders.
 
 `Next.js` `TypeScript` `MUI` `React Hook Form`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://baznoneshan.ir">
+<img src="assets/bazno.png" width="100%" />
+</a>
+
+### ♻️ [Bazno](https://baznoneshan.ir)
+
+An environmental & social participation platform: users send household waste into recycling, earn participation coins, and spend them on social causes, discount codes, or a coin-only shop. Includes collection points, wallet, referrals, an Expo mobile app, and a separate collector app.
+
+`React` `TypeScript` `Django REST` `PostgreSQL` `Expo / React Native`
+
+**[Live site ↗](https://baznoneshan.ir)** · _team project (private repo)_
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://bazgashtapp.ir">
+<img src="assets/bazgasht.png" width="100%" />
+</a>
+
+### 💚 [Bazgasht](https://bazgashtapp.ir)
+
+Smart shopping with social impact: users buy at ~5,800 partner stores, a share of every purchase returns to their wallet as cashback, and they choose which charity project or campaign it funds. Store map, QR/receipt/bank-card purchase tracking, merchant panel, and a full admin panel.
+
+`React` `TypeScript` `Django REST` `PostgreSQL` `Expo / React Native`
+
+**[Live site ↗](https://bazgashtapp.ir)** · _team project (private repo)_
 
 </td>
 </tr>
