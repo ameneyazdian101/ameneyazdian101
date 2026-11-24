@@ -72,11 +72,11 @@ An online storefront for surveying and geomatics equipment, with a full admin pa
 
 ### ♻️ [Bazno](https://baznoneshan.ir)
 
-An environmental & social participation platform: users send household waste into recycling, earn participation coins, and spend them on social causes, discount codes, or a coin-only shop. Includes collection points, wallet, referrals, an Expo mobile app, and a separate collector app.
+An environmental & social participation platform: users send household waste into recycling, earn participation coins, and spend them on social causes, discount codes, or a coin-only shop. Includes collection points, wallet, referrals, a separate collector app, and a native Android app published on Cafe Bazaar.
 
 `React` `TypeScript` `Django REST` `PostgreSQL` `Expo / React Native`
 
-**[Live site ↗](https://baznoneshan.ir)** · _team project (private repo)_
+**[Live site ↗](https://baznoneshan.ir)** · **[Android app ↗](https://cafebazaar.ir/app/com.baznoneshan.app)** · _team project (private repo)_
 
 </td>
 <td width="50%" valign="top">
