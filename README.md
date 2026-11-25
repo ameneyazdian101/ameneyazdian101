@@ -18,13 +18,15 @@ My latest build is a full digital planner: an installable PWA, an AI assistant t
 
 I'm also a core contributor on a team building two live social-impact platforms — **Bazno** and **Bazgasht** — with React, Django, PostgreSQL, and Expo mobile apps.
 
+On the WordPress side, I develop and run technical SEO for a live WooCommerce store — from Search Console analysis and indexing fixes to structured data and site performance.
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=16A34A&width=100%" width="100%"/>
 
 <div align="center">
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,django,postgres,prisma,tailwind,vite,docker,vercel,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,django,postgres,prisma,tailwind,vite,docker,wordpress,php,vercel,git&theme=dark" />
 
 </div>
 
@@ -51,15 +53,17 @@ A personal digital planner with a full Persian (Jalali) calendar — daily/weekl
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ameneyazdian101/amir-trading-project">
-<img src="https://raw.githubusercontent.com/ameneyazdian101/amir-trading-project/master/.github/readme-assets/home.png" width="100%" />
+<a href="https://amir-trading.com">
+<img src="assets/amir-trading.png" width="100%" />
 </a>
 
-### 🛒 [Amir Trading](https://github.com/ameneyazdian101/amir-trading-project)
+### 🛒 [Amir Trading](https://amir-trading.com)
 
-An online storefront for surveying and geomatics equipment, with a full admin panel for products, inventory, and orders.
+A live WooCommerce store for surveying equipment (total stations, GNSS receivers, laser scanners). I develop and maintain the site and run its **technical SEO**: site audits, Search Console analysis, fixing unindexed category pages, resolving keyword cannibalization, VideoObject structured data for embedded product videos, and performance and caching checks.
 
-`Next.js` `TypeScript` `MUI` `React Hook Form`
+`WordPress` `WooCommerce` `PHP` `Technical SEO` `Search Console` `Schema.org`
+
+**[Live site ↗](https://amir-trading.com)**
 
 </td>
 </tr>
