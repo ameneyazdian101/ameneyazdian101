@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2540,100:16A34A&height=220&section=header&text=AMENEH%20YAZDIAN&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%94%20Idea%20to%20Production&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=16A34A&center=true&vCenter=true&width=680&lines=Next.js+%2B+TypeScript+%2B+PostgreSQL;Design+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Deploy;AI-Powered+Products+in+Production" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=16A34A&center=true&vCenter=true&width=680&lines=Next.js+%2B+TypeScript+%2B+PostgreSQL;React+%2B+Django+%2B+React+Native;Design+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Deploy;AI-Powered+Products+in+Production" alt="typing-svg" />
 
 </div>
 
@@ -94,6 +94,24 @@ Smart shopping with social impact: users buy at ~5,800 partner stores, a share o
 **[Live site ↗](https://bazgashtapp.ir)** · _team project (private repo)_
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://anki.nemoapps.xyz">
+<img src="assets/nemo-anki.png" width="100%" />
+</a>
+
+### 🧠 [Nemo Anki](https://anki.nemoapps.xyz)
+
+An AI language tutor built around real Anki-style spaced repetition for German and English. Gemini turns pasted coursebook pages into vocab, sentence, and grammar cards, with background jobs, push reminders, and a Telegram bot.
+
+`React` `TypeScript` `Django REST` `PostgreSQL` `Redis / Celery` `Gemini AI`
+
+**[Live site ↗](https://anki.nemoapps.xyz)** · _private repo_
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
