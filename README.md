@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2540,100:16A34A&height=220&section=header&text=AMENEH%20YAZDIAN&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%94%20Idea%20to%20Production&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2540,100:16A34A&height=220&section=header&text=AMENE%20YAZDIAN&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%94%20Idea%20to%20Production&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=16A34A&center=true&vCenter=true&width=680&lines=Next.js+%2B+TypeScript+%2B+PostgreSQL;React+%2B+Django+%2B+React+Native;Design+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Deploy;AI-Powered+Products+in+Production" alt="typing-svg" />
 
