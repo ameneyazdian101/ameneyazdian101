@@ -112,7 +112,7 @@ An AI language tutor built around real Anki-style spaced repetition for German a
 
 `React` `TypeScript` `Django REST` `PostgreSQL` `Redis / Celery` `Gemini AI`
 
-**[Live site ↗](https://anki.nemoapps.xyz)** · _private repo_
+**[Live site ↗](https://anki.nemoapps.xyz)** · **[Code ↗](https://github.com/mmahini/nemo-anki)** · _team project_
 
 </td>
 <td width="50%" valign="top"></td>
