@@ -115,4 +115,15 @@ An AI language tutor built around real Anki-style spaced repetition for German a
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=16A34A&width=100%" width="100%"/>
+
+<div align="center">
+
+## Get in Touch
+
+<a href="mailto:amene.yazdian101@gmail.com"><img src="https://img.shields.io/badge/Email-amene.yazdian101%40gmail.com-16A34A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/AmeneYazdian"><img src="https://img.shields.io/badge/Telegram-%40AmeneYazdian-0F2540?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:0F2540&height=100&section=footer" width="100%"/>
