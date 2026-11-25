@@ -46,7 +46,7 @@ On the WordPress side, I develop and run technical SEO for a live WooCommerce st
 
 A personal digital planner with a full Persian (Jalali) calendar — daily/weekly/monthly planning, goals, habit tracking, journaling, and an AI assistant that reasons about the user's real schedule. Full PWA with real server-pushed reminders.
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Gemini AI`
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Groq LLM` `Web Push`
 
 **[Live demo ↗](https://planner-vmdv-eight.vercel.app)**
 
