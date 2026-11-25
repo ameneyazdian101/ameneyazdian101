@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2540,100:16A34A&height=220&section=header&text=AMENE%20YAZDIAN&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%94%20Idea%20to%20Production&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/>
 
